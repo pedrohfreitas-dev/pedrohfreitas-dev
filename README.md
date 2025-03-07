@@ -1,6 +1,4 @@
-### Olá pessoal! Eu sou o Pedro Freitas 😁
 
-🎓 Estou finalizando o 1° semestre do curso de análise e desenvolvimento de sistemas
 
 <div> 
  
