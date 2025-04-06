@@ -1,7 +1,7 @@
 
 
 <div> 
- Olá! Eu sou um Desenvolvedor Back-End Java
+ Seja bem vindo! Meu nome é Pedro e eu sou um Desenvolvedor Back-End Java
 
 Sou apaixonado por tecnologia e desenvolvimento de software, com foco na criação de APIs robustas e escaláveis utilizando Java e o ecossistema Spring. Estou sempre em busca de aprendizado e evolução constante, atualmente com foco em projetos pessoais e tenho como objetivo, atuar como desenvolvedor back-end em projetos desafiadores, contribuindo com soluções eficientes e aprendizado em equipe.
 
