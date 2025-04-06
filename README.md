@@ -10,12 +10,12 @@
 ### Tecnologias 🚀
 
 <div>
- <img  align="center" alt="Java" height="40" width="60"
+ <img  align="center" alt="Java" height="30" width="50"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-  <img  align="center" alt="Spring" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" alt="Git" height="40" width="60"
+  <img  align="center" alt="Spring" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img align="center" alt="Git" height="30" width="50"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-   <img  align="center" alt="Git" height="40" width="60"
+   <img  align="center" alt="Git" height="30" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
           
           
