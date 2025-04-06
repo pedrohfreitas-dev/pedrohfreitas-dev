@@ -7,7 +7,7 @@
   
 </div>
 
-### Tecnologias 🚀
+### Tecnologias 
 
 <div>
  <img  align="center" alt="Java" height="30" width="50"
