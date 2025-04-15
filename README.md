@@ -3,7 +3,7 @@
 <div> 
  Seja bem vindo! Sou o Pedro, um desenvolvedor back-end com foco em Java.
 
-Sou apaixonado por tecnologia e desenvolvimento de software, com foco na criação de APIs robustas e escaláveis utilizando Java e o ecossistema Spring. Estou sempre em busca de aprendizado e evolução constante, atualmente com foco em projetos pessoais e tenho como objetivo, atuar como desenvolvedor back-end em projetos desafiadores, contribuindo com soluções eficientes e aprendizado em equipe.
+Sou um desenvolvedor em início de carrira com foco na criação de APIs robustas e escaláveis utilizando Java e o ecossistema Spring. Estou sempre em busca de aprendizado e evolução constante, atualmente com foco em projetos pessoais e tenho como objetivo, atuar como desenvolvedor back-end em projetos desafiadores, contribuindo com soluções eficientes e aprendizado em equipe.
 
 Aqui no meu perfil, você vai encontrar projetos voltados ao meu aprendizado e evolução como desenvolvedor. Estou sempre praticando, refatorando e testando ideias!
 
