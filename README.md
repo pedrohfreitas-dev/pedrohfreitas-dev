@@ -1,12 +1,9 @@
 
 
 <div> 
- Seja bem vindo! Sou o Pedro, um desenvolvedor back-end com foco em Java.
+ Desenvolvedor FullStack e formação | React | Node.js | TypeScript 
 
-Sou um desenvolvedor em início de carreira com foco na criação de APIs robustas e escaláveis utilizando Java e o ecossistema Spring. Estou sempre em busca de aprendizado e evolução constante, atualmente com foco em projetos pessoais e tenho como objetivo, atuar como desenvolvedor back-end em projetos desafiadores, contribuindo com soluções eficientes e aprendizado em equipe.
-
-Aqui no meu perfil, você vai encontrar projetos voltados ao meu aprendizado e evolução como desenvolvedor. Estou sempre praticando, refatorando e testando ideias!
-
+Atualmente cursando Ciência da Computação e focado na construção de aplicações web completas, trabalhando tanto no front‑end quanto no back‑end. Meu objetivo é evoluir como desenvolvedor construindo sistemas reais, entendendo arquitetura e escrevendo código limpo e escalável.
 
 Como me encontrar:
 
@@ -20,18 +17,17 @@ Como me encontrar:
 ### Tecnologias 
 
 <div>
+   <img align="center" alt="Java" height="30" width="50" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+ <img align="center" alt="Java" height="30" width="50" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+ <img align="center" alt="Java" height="30" width="50" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
  <img  align="center" alt="Java" height="30" width="50"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
   <img  align="center" alt="Spring" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="center" alt="Git" height="30" width="50"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
    <img  align="center" alt="Post" height="30" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
-          
-          
-          
-          
-          
-
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />        
 </div>
