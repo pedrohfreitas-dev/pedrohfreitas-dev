@@ -1,7 +1,7 @@
 
 
 <div> 
- Desenvolvedor FullStack e formação | React | Node.js | TypeScript 
+ Desenvolvedor Full Stack em formação | Node.js, React e TypeScript | Conhecimentos em Java e Spring Boot
 
 Atualmente cursando Ciência da Computação e focado na construção de aplicações web completas, trabalhando tanto no front‑end quanto no back‑end. Meu objetivo é evoluir como desenvolvedor construindo sistemas reais, entendendo arquitetura e escrevendo código limpo e escalável.
 
