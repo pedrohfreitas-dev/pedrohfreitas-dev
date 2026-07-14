@@ -1,9 +1,9 @@
 
 
 <div> 
- Desenvolvedor Full Stack em formação | Node.js, React e TypeScript | Conhecimentos em Java e Spring Boot
+ Desenvolvedor BackEnd Java | Spring
 
-Atualmente cursando Ciência da Computação e focado na construção de aplicações web completas, trabalhando tanto no front‑end quanto no back‑end. Meu objetivo é evoluir como desenvolvedor construindo sistemas reais, entendendo arquitetura e escrevendo código limpo e escalável.
+Atualmente no segundo período do curso de Ciência da Computação e focado na construção de aplicações BackEnd completas. Meu objetivo é evoluir como desenvolvedor construindo sistemas reais, entendendo arquitetura e escrevendo código limpo e escalável.
 
 Como me encontrar:
 
@@ -17,14 +17,7 @@ Como me encontrar:
 ### Tecnologias 
 
 <div>
-   <img align="center" alt="Java" height="30" width="50" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
- <img align="center" alt="Java" height="30" width="50" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
- <img align="center" alt="Java" height="30" width="50" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Git" height="30" width="50"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
   <img align="center" alt="Java" height="30" width="50"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />   
    <img align="center" alt="Java" height="30" width="50"
